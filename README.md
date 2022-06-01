@@ -48,7 +48,7 @@ It is a simple Friends List App using Ruby on Rails with SQLite3 database.
 
 ### Update Friend (Update)
 
-![image](https://user-images.githubusercontent.com/54937357/171352633-656e4d2b-d4a6-45f1-b514-f19b1ab769d9.png)
+![image](https://user-images.githubusercontent.com/54937357/171354922-e71c7872-3293-43e6-9ac3-6dc6f84d0cb4.png)
 
 
 ### Delete Friend (Delete)
