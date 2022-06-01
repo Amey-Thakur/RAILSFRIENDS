@@ -4,7 +4,7 @@ It is a simple Friends List App using Ruby on Rails with SQLite3 database.
  - This is my first Ruby on Rails Project!
  
  - WebApp Deployment by [Mega Satish](https://github.com/msatmod) 
-   - [GitHub Repository](https://github.com/msatmod/friendsapp) | [Fork](https://github.com/Amey-Thakur/FRIENDSAPP)
+   - [GitHub Repository](https://github.com/msatmod/friendsapp) | [My Fork](https://github.com/Amey-Thakur/FRIENDSAPP)
    - [Web Application](https://rubyonrailsfriendwebapp.herokuapp.com)
 
 ---
