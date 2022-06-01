@@ -26,7 +26,7 @@ It is a simple Friends List App using Ruby on Rails with SQLite3 database.
 
 ### Sign In
 
-![image](https://user-images.githubusercontent.com/54937357/171352202-7068eea4-9657-4c06-8431-81f3eb205230.png)
+![image](https://user-images.githubusercontent.com/54937357/171355313-2e172883-9b6a-405b-bb8e-dcafd83475ae.png)
 
 
 ### Edit Profile
