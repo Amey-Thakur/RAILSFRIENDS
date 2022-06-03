@@ -1,10 +1,12 @@
 # Friends List App
-It is a simple Friends List App using Ruby on Rails with SQLite3 database.
+ 👉🏻 It is a simple Friends List App using Ruby on Rails with SQLite3 database.
 
  - This is my first Ruby on Rails Project!
  
  - WebApp Deployment by [Mega Satish](https://github.com/msatmod) 
+   
    - [GitHub Repository](https://github.com/msatmod/friendsapp) | [My Fork](https://github.com/Amey-Thakur/FRIENDSAPP)
+   
    - [Web Application](https://rubyonrailsfriendwebapp.herokuapp.com)
 
 ---
@@ -65,3 +67,7 @@ It is a simple Friends List App using Ruby on Rails with SQLite3 database.
 
 ![image](https://user-images.githubusercontent.com/54937357/171355107-f11d1990-00bf-4de4-8c6d-5e1a8f430904.png)
 
+
+<p align="center"> <b> 👉🏻 Created to Learn Ruby on Rails 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/RAILSFRIENDS', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
