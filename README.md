@@ -73,5 +73,7 @@
 ---
 
 <p align="center"> <b> 👉🏻 Created to Learn Ruby on Rails 👈🏻 <b> </p>
+
+<p align="center"> <b> 👷 Project Authors: Amey Thakur and Mega Satish <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/RAILSFRIENDS', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
