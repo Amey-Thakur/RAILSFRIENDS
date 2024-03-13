@@ -6,7 +6,7 @@
  
 --- 
  
- >WebApp Deployment by [Mega Satish](https://github.com/msatmod) 
+ >WebApp Deployment by **[Mega Satish](https://github.com/msatmod)** 
    
    - [GitHub Repository](https://github.com/msatmod/friendsapp) | [My Fork](https://github.com/Amey-Thakur/FRIENDSAPP)
    
