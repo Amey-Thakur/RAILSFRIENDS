@@ -1,4 +1,5 @@
 # Friends List App
+
  👉🏻 It is a simple Friends List App using Ruby on Rails with SQLite3 database.
 
  - This is my first Ruby on Rails Project!
