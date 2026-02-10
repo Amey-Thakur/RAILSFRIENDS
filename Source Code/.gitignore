@@ -1,0 +1,48 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# Ignore swp files
+*.swp
+*.swo
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+# Ignore generated credentials
+/config/credentials.yml.enc
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore local database
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore uploaded files in development
+/storage/*
+!/storage/.keep
+/public/system
+/public/assets
+/public/packs
+/public/packs-test
+
+# Ignore node_modules
+/node_modules
+/yarn-error.log
+
+# Ignore pidfiles, but keep the directory.
+/tmp/pids/*
+!/tmp/pids/.keep
+
+# Ignore coverage
+/coverage/
