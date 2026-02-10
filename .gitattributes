@@ -1,0 +1,75 @@
+# RAILSFRIENDS - Academic Repository
+# Standardized Git Attributes for Scholarly Archiving
+# Learned from RUBY repository configuration
+
+# Set default behavior to automatically normalize line endings
+* text=auto eol=lf
+
+# Explicitly mark source files as text
+*.rb text eol=lf
+*.erb text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.rake text eol=lf
+Gemfile text eol=lf
+Rakefile text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Mark binary files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+
+# Improve diff handling and scholarly classification
+*.md text diff=markdown
+*.rb text diff=ruby
+*.md linguist-documentation
+
+# LINGUIST OPTIMIZATION - PRECISE RUBY & BATCHFILE
+# Force Ruby and Batchfile to be the sole representatives
+*.rb linguist-language=Ruby
+*.rb linguist-detectable=true
+*.erb linguist-language=Ruby
+*.erb linguist-detectable=true
+*.cmd linguist-language=Batchfile
+*.cmd linguist-detectable=true
+*.bat linguist-language=Batchfile
+*.bat linguist-detectable=true
+
+# Precisely hide only the non-core web assets
+"**/*.html" linguist-vendored
+"**/*.html" -linguist-detectable
+"**/*.css" linguist-vendored
+"**/*.css" -linguist-detectable
+"**/*.js" linguist-vendored
+"**/*.js" -linguist-detectable
+"**/*.scss" linguist-vendored
+"**/*.scss" -linguist-detectable
+
+# Hide known oversized or non-logic directories
+"Mega/**" linguist-vendored
+"Mega/**" -linguist-detectable
+"docs/**" linguist-documentation
+"docs/**" -linguist-detectable
+"screenshots/**" linguist-vendored
+"screenshots/**" -linguist-detectable
+
+# Metadata handled as documentation
+*.md linguist-documentation
+*.cff linguist-documentation
+codemeta.json linguist-documentation
+LICENSE linguist-documentation
