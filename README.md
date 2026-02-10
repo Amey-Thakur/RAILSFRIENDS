@@ -274,7 +274,7 @@ rails test
 ```
 
 > [!TIP]
-> **Instant Play**
+> **Live Demo**
 >
 > You can interact with the app instantly in your browser without any installation via our Cloud deployment:
 >
