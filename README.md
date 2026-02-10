@@ -324,7 +324,7 @@ This project features **RailsFriends**, a logic-driven interactive contact manag
 > ### 🏛️ Original Deployment Archive
 > The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
 >
-> 👉🏻 **[Heroku Deployment Link](https://rubyonrailsfriendwebapp.herokuapp.com/)**
+> Heroku Deployment Link - https://rubyonrailsfriendwebapp.herokuapp.com/
 >
 > **Note**: Due to Heroku's discontinuation of their free tier services, the active live deployment has been migrated to **Render**. The original link is preserved here for historical context and authenticity of the initial launch.
 
