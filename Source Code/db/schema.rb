@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: schema.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `schema.rb` file is the authoritative source for the database structure.
+# It represents the final state of the database after all migrations have been
+# executed.
+#
+# Architecture:
+# - Users: Stores authentication data (Encrypted Password, Reset Tokens).
+# - Friends: Stores contact information and links to Users via `user_id`.
+# ==============================================================================
+
 # This file is auto-generated from the current state of the database. Instead
 # of editing this file, please use the migrations feature of Active Record to
 # incrementally modify your database, and then regenerate this schema definition.

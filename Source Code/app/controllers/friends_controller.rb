@@ -1,3 +1,25 @@
+# ==============================================================================
+# Filename: friends_controller.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `FriendsController` manages the lifecycle of the `Friend` resource.
+# It facilitates CRUD (Create, Read, Update, Delete) operations, ensuring
+# that users can only interact with their own data through strict 
+# authentication and authorization layers.
+#
+# Architecture:
+# - Authentication: Enforces Devise-based login for destructive actions.
+# - Authorization: Utilizes `correct_user` filter to prevent cross-account editing.
+# - State Management: Handles friend creation and logical associations.
+# ==============================================================================
+
 class FriendsController < ApplicationController
   before_action :set_friend, only: %i[ show edit update destroy ]
   before_action :authenticate_user!, except: [:index, :show]

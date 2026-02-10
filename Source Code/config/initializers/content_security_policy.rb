@@ -1,3 +1,22 @@
+# ==============================================================================
+# Filename: content_security_policy.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `content_security_policy.rb` file defines the application's CSP header 
+# settings to mitigate Cross-Site Scripting (XSS) and data injection attacks.
+#
+# Architecture:
+# - Security: Whitelists allowed content sources (Scripts, Styles, Images).
+# - Nonces: Generates session-specific nonces for inline script execution.
+# ==============================================================================
+
 # Be sure to restart your server when you modify this file.
 
 # Define an application-wide content security policy.

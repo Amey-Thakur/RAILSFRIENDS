@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: production.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `production.rb` file configures the application for the live deployment
+# environment. It optimizes for performance and security, enabling features like
+# class caching, eager loading, and strict SSL enforcement.
+#
+# Architecture:
+# - Performance: Eager loads entire application (`config.eager_load = true`).
+# - Logging: Uses `::Logger::Formatter` and tags logs with Request IDs.
+# ==============================================================================
+
 require "active_support/core_ext/integer/time"
 
 Rails.application.configure do

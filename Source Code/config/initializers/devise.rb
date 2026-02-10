@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: devise.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `devise.rb` file is the central configuration hub for the Devise 
+# authentication library. It defines parameters for session management, 
+# password hashing (BCrypt), and email patterns.
+#
+# Architecture:
+# - Identity: Configures mailer sender and ORM (Active Record).
+# - Security: Sets password stretching (cost) and session storage rules.
+# ==============================================================================
+
 # frozen_string_literal: true
 
 # Assuming you have not yet modified this file, each configuration option below
