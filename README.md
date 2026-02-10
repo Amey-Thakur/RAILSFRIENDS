@@ -318,17 +318,23 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
+**Relevant Repository**: [Ruby on Rails Friends App - Amey Thakur](https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP)
+
 **Collaborator's Repository**: [Ruby on Rails Friends App - Mega Satish](https://github.com/msatmod/friendsapp)
 
 This project features **RailsFriends**, a logic-driven interactive contact management system. It represents a personal exploration into **Rails**-based class orchestration and high-performance web design. It was developed as a key project within the **[30-Day Ruby Challenge](https://amey-thakur.github.io/RUBY/)**, marking a significant step in the mastery of the framework as our **First Ruby on Rails Project**.
 
 > [!IMPORTANT]
 > ### 🏛️ Original Deployment Archive
-> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
+> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**.
 >
-> Heroku Deployment Link - https://rubyonrailsfriendwebapp.herokuapp.com/
+> **About**: *"Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku."*
 >
-> **Note**: Due to Heroku's discontinuation of their free tier services, the active live deployment has been migrated to **Render**. The original link is preserved here for historical context and authenticity of the initial launch.
+> **Heroku Deployment Link**: [rubyonrailsfriendwebapp.herokuapp.com](https://rubyonrailsfriendwebapp.herokuapp.com/)
+>
+> **Note**: This link is preserved here for historical context and authenticity of the initial launch.
+>
+> **Note**: Due to Heroku's discontinuation of their free tier services, the active live deployment has been migrated to Render.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
