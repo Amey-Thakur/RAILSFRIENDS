@@ -10,7 +10,7 @@
 
   A high-fidelity, modular web-based Contact Management System engineered in Ruby on Rails, demonstrating strict adherence to Model-View-Controller (MVC) principles and responsive User Interface (UI) design within a browser environment.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://rubyonrailsfriendwebapp.herokuapp.com)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://railsfriends-djxy.onrender.com/)**
 
 </div>
 
@@ -221,7 +221,7 @@ rails test
 >
 > You can interact with the app instantly in your browser without any installation via our Cloud deployment:
 >
-> 👉🏻 **[Launch RailsFriends Live](https://rubyonrailsfriendwebapp.herokuapp.com)**
+> 👉🏻 **[Launch RailsFriends Live](https://railsfriends-djxy.onrender.com/)**
 
 ---
 
@@ -263,6 +263,9 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 This project features **RailsFriends**, a logic-driven interactive contact management system. It represents a personal exploration into **Rails**-based class orchestration and high-performance web design. It was developed as a key project within the **[30-Day Ruby Challenge](https://amey-thakur.github.io/RUBY/)**, marking a significant step in the mastery of the framework as our **First Ruby on Rails Project**.
 
+### Original Deployment
+The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
+
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
@@ -281,7 +284,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   <br>
 
-  <a href="https://amey-thakur.github.io/RUBY/"><img src="docs/Rails_Logo.png" width="30" height="auto" valign="middle"></a> **[RailsFriends App](https://rubyonrailsfriendwebapp.herokuapp.com)**
+  <a href="https://amey-thakur.github.io/RUBY/"><img src="docs/Rails_Logo.png" width="30" height="auto" valign="middle"></a> **[RailsFriends App](https://railsfriends-djxy.onrender.com/)**
 
   ---
 
