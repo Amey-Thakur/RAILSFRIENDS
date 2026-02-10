@@ -1,3 +1,22 @@
+# ==============================================================================
+# Filename: inflections.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `inflections.rb` file contains rules for the ActiveSupport Inflector.
+# It allows the definition of irregular pluralization and singularization 
+# logic to ensure domain-specific terminology is handled correctly.
+#
+# Architecture:
+# - Locale: Defines rules for the English (:en) locale by default.
+# ==============================================================================
+
 # Be sure to restart your server when you modify this file.
 
 # Add new inflection rules using the following format. Inflections

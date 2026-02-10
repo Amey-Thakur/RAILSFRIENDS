@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: puma.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# This file contains the configuration for the Puma application server.
+# It defines thread/worker counts, timeouts, and port bindings to ensure
+# optimal performance across development and production environments.
+#
+# Architecture:
+# - Concurrency: Configured for thread-based handling (min/max threads).
+# - Performance: Supports Copy-On-Write (COW) memory via `preload_app!`.
+# ==============================================================================
+
 # Puma can serve each request in a thread from an internal thread pool.
 # The `threads` method setting takes two numbers: a minimum and maximum.
 # Any libraries that use thread pools should be configured to match

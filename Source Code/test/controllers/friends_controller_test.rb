@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: friends_controller_test.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `friends_controller_test.rb` suite validates the functionality of the
+# `FriendsController`. It ensures that all CRUD operations (Create, Read,
+# Update, Delete) are functioning correctly and that proper redirects occur.
+#
+# Architecture:
+# - Type: Integration Test (`ActionDispatch::IntegrationTest`).
+# - Fixtures: Uses `friends(:one)` for test data.
+# ==============================================================================
+
 require "test_helper"
 
 class FriendsControllerTest < ActionDispatch::IntegrationTest

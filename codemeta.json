@@ -2,37 +2,34 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "name": "RAILSFRIENDS",
-    "version": "1.0.0",
-    "description": "RAILSFRIENDS is a simple Friends List App engineered to demonstrate the efficiency of Ruby on Rails' Model-View-Controller (MVC) architecture.",
-    "identifier": "RAILSFRIENDS",
-    "license": "https://spdx.org/licenses/MIT.html",
-    "programmingLanguage": [
-        "Ruby on Rails",
-        "Ruby"
-    ],
+    "description": "A Ruby on Rails application for managing friend networks, featuring user authentication, CRUD operations, and a bootstrap-styled interface.",
+    "license": "https://opensource.org/licenses/MIT",
+    "codeRepository": "https://github.com/Amey-Thakur/RAILSFRIENDS",
+    "dateCreated": "2022-06-01",
+    "datePublished": "2022-06-01",
     "author": [
         {
             "@type": "Person",
             "givenName": "Amey",
             "familyName": "Thakur",
-            "id": "https://orcid.org/0000-0001-5644-1575"
+            "url": "https://github.com/Amey-Thakur"
         },
         {
             "@type": "Person",
             "givenName": "Mega",
             "familyName": "Satish",
-            "id": "https://orcid.org/0000-0002-1844-9557"
+            "url": "https://github.com/msatmod"
         }
     ],
-    "dateReleased": "2022-06-01",
-    "codeRepository": "https://github.com/Amey-Thakur/RAILSFRIENDS",
-    "developmentStatus": "complete",
-    "applicationCategory": "Education / Web Applications",
-    "keywords": [
-        "Ruby on Rails",
-        "MVC",
-        "CRUD",
-        "Web Application",
-        "SQLite3"
-    ]
+    "programmingLanguage": [
+        "Ruby",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "runtimePlatform": [
+        "Ruby 3.3.10",
+        "Rails 7.0.8.7"
+    ],
+    "operatingSystem": "Cross-platform"
 }

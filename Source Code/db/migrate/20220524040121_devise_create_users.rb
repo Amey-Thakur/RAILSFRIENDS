@@ -1,3 +1,24 @@
+# ==============================================================================
+# Filename: 20220524040121_devise_create_users.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# This migration configures the `users` table for Devise authentication.
+# It establishes fields for email, encrypted passwords, and reset tokens,
+# implementing the database layer for secure user identity.
+#
+# Architecture:
+# - Table: `users`
+# - Modules: Database Authenticatable, Recoverable, Rememberable, Validatable.
+# - Indices: Enforces uniqueness on `email` and `reset_password_token`.
+# ==============================================================================
+
 # frozen_string_literal: true
 
 class DeviseCreateUsers < ActiveRecord::Migration[7.0]

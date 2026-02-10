@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: development.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `development.rb` file configures the application for the local development
+# environment. It prioritizes developer experience by enabling attributes like
+# code reloading, verbose error reporting, and local caching.
+#
+# Architecture:
+# - Caching: Toggles between `:memory_store` and `:null_store`.
+# - Debugging: Enables `verbose_query_logs` and full error reports.
+# ==============================================================================
+
 require "active_support/core_ext/integer/time"
 
 Rails.application.configure do

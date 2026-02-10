@@ -1,3 +1,23 @@
+# ==============================================================================
+# Filename: test.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `test.rb` file configures the application for the test suite.
+# It ensures a clean, isolated environment for running unit, integration,
+# and system tests without affecting development or production data.
+#
+# Architecture:
+# - Isolation: Recreates the test database between runs ("scratch space").
+# - Performance: Disables caching and enables public file serving.
+# ==============================================================================
+
 require "active_support/core_ext/integer/time"
 
 # The test environment is used exclusively to run your application's

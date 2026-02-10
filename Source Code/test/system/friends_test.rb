@@ -1,3 +1,24 @@
+# ==============================================================================
+# Filename: friends_test.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RAILSFRIENDS
+# Release Date: 01 June 2022
+# License: MIT
+#
+# Description:
+# The `friends_test.rb` suite performs End-to-End (E2E) testing of the
+# Friends management feature. It uses a headless browser to simulate real 
+# user interactions (Click, Fill, Submit) for creating, updating, and 
+# deleting friends.
+#
+# Architecture:
+# - Type: System Test (`ApplicationSystemTestCase`).
+# - Driver: Selenium/Chrome.
+# ==============================================================================
+
 require "application_system_test_case"
 
 class FriendsTest < ApplicationSystemTestCase
