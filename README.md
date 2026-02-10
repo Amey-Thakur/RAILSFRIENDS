@@ -320,8 +320,13 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 This project features **RailsFriends**, a logic-driven interactive contact management system. It represents a personal exploration into **Rails**-based class orchestration and high-performance web design. It was developed as a key project within the **[30-Day Ruby Challenge](https://amey-thakur.github.io/RUBY/)**, marking a significant step in the mastery of the framework as our **First Ruby on Rails Project**.
 
-### Original Deployment
-The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
+> [!IMPORTANT]
+> ### 🏛️ Original Deployment Archive
+> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
+>
+> 👉🏻 **[Heroku Deployment Link](https://rubyonrailsfriendwebapp.herokuapp.com/)**
+>
+> **Note**: Due to Heroku's discontinuation of their free tier services, the active live deployment has been migrated to **Render**. The original link is preserved here for historical context and authenticity of the initial launch.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
