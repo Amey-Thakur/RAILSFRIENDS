@@ -142,81 +142,81 @@ RAILSFRIENDS/
   <b>Home Page</b>
   <br>
   <i>Landing page of the RailsFriends application.</i>
-  <br>
-  <img src="screenshots/01_home_page.png" alt="Home Page" width="90%">
   <br><br>
+  <img src="screenshots/01_home_page.png" alt="Home Page" width="90%">
+  <br><br><br>
 
   <b>About Us</b>
   <br>
   <i>Information about the project and team.</i>
-  <br>
-  <img src="screenshots/02_about_us.png" alt="About Us" width="90%">
   <br><br>
+  <img src="screenshots/02_about_us.png" alt="About Us" width="90%">
+  <br><br><br>
 
   <b>Sign Up</b>
   <br>
   <i>User registration interface.</i>
-  <br>
-  <img src="screenshots/03_sign_up.png" alt="Sign Up" width="90%">
   <br><br>
+  <img src="screenshots/03_sign_up.png" alt="Sign Up" width="90%">
+  <br><br><br>
 
   <b>Sign In</b>
   <br>
   <i>Secure authentication login.</i>
-  <br>
-  <img src="screenshots/04_sign_in.png" alt="Sign In" width="90%">
   <br><br>
+  <img src="screenshots/04_sign_in.png" alt="Sign In" width="90%">
+  <br><br><br>
 
   <b>Edit Profile</b>
   <br>
   <i>User account management settings.</i>
-  <br>
-  <img src="screenshots/05_edit_profile.png" alt="Edit Profile" width="90%">
   <br><br>
+  <img src="screenshots/05_edit_profile.png" alt="Edit Profile" width="90%">
+  <br><br><br>
 
   <b>Add Friend (Create)</b>
   <br>
   <i>Interface for adding new contacts.</i>
-  <br>
-  <img src="screenshots/06_create_friend.png" alt="Create Friend" width="90%">
   <br><br>
+  <img src="screenshots/06_create_friend.png" alt="Create Friend" width="90%">
+  <br><br><br>
 
   <b>Show Friend (Read)</b>
   <br>
   <i>Detailed view of a contact (Top Section).</i>
-  <br>
-  <img src="screenshots/07_show_friend_top.png" alt="Show Friend Top" width="90%">
-  <br>
-  <i>Detailed view of a contact (Bottom Section).</i>
-  <br>
-  <img src="screenshots/08_show_friend_bottom.png" alt="Show Friend Bottom" width="90%">
   <br><br>
+  <img src="screenshots/07_show_friend_top.png" alt="Show Friend Top" width="90%">
+  <br><br>
+  <i>Detailed view of a contact (Bottom Section).</i>
+  <br><br>
+  <img src="screenshots/08_show_friend_bottom.png" alt="Show Friend Bottom" width="90%">
+  <br><br><br>
 
   <b>Update Friend (Update)</b>
   <br>
   <i>Form for editing contact details.</i>
-  <br>
-  <img src="screenshots/09_update_friend.png" alt="Update Friend" width="90%">
   <br><br>
+  <img src="screenshots/09_update_friend.png" alt="Update Friend" width="90%">
+  <br><br><br>
 
   <b>Delete Friend (Delete)</b>
   <br>
   <i>Confirmation modal for removing a contact.</i>
-  <br>
-  <img src="screenshots/10_delete_friend_modal.png" alt="Delete Friend" width="90%">
   <br><br>
+  <img src="screenshots/10_delete_friend_modal.png" alt="Delete Friend" width="90%">
+  <br><br><br>
 
   <b>Friends List</b>
   <br>
   <i>Comprehensive dashboard of all saved contacts.</i>
-  <br>
-  <img src="screenshots/11_friends_list.png" alt="Friends List" width="90%">
   <br><br>
+  <img src="screenshots/11_friends_list.png" alt="Friends List" width="90%">
+  <br><br><br>
 
   <b>Sign Out</b>
   <br>
   <i>Successful logout confirmation flash message.</i>
-  <br>
+  <br><br>
   <img src="screenshots/12_sign_out_flash.png" alt="Sign Out" width="90%">
 </div>
 
